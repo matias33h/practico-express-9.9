@@ -17,7 +17,7 @@ ctrlHome.postHome = (re, res) => {
 
     res.send({
 
-        "apellido": "marcial",
+        "apellido": "garcia",
         "nombre": "ezequiel"
     })
 
